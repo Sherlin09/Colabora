@@ -2,6 +2,8 @@ Este es un proyecto para prueba de nuevos comandos de git
 
 se trata de una pagina heca en bootstrap
 
+Editando el index
+
 Colaboradores
 
 1.- Sherlin Toriz Pérez
