@@ -1,11 +1,11 @@
 Este es un proyecto para prueba de nuevos comandos de git
 
-se trata de una pagina heca en bootstrap
+se trata de una pagina hecha en bootstrap
 
 Editando el index
 
 Colaboradores
 
-1.- Sherlin Toriz Pérez  -> Proyecto git colaborativo
-2.- Marina Guadalupe Lopez Rodriguez
-3.- Vannesa Vega Huerta
+1.- Sherlin Toriz Pérez  -> Proyecto git colaborativo.
+2.- Marina Guadalupe Lopez Rodriguez.
+3.- Vannesa Vega Huerta.
