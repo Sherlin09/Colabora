@@ -1,0 +1,9 @@
+Este es un proyecto para prueba de nuevos comandos de git
+
+se trata de una pagina heca en bootstrap
+
+Colaboradores
+
+1.- Sherlin Toriz Pérez
+2.- Marina Guadalupe Lopez Rodriguez
+3.- Vannesa Vega Huerta
